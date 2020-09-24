@@ -1,1 +1,1 @@
-# primart_healthtect_test_app
+# primary_healthtect_test_app
